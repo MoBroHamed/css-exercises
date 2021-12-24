@@ -1,0 +1,14 @@
+button{
+    font-size: 24px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    border-color: antiquewhite;
+}
+
+.affirmative{
+color: white;
+background-color: black;
+}
+
+.denial{
+    background-color: hsl(60, 94%, 51%);
+}
