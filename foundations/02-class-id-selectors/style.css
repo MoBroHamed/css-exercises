@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fa8095;
+}
+
+.bluebanner{
+    font-size: 36px;
+    color: blue;
+}
+
+.banner{
+font-size: 24px;
+}
+
+.boldgreen{
+font-weight: bold;
+background-color: lightgreen;
+}
